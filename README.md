@@ -22,4 +22,6 @@ Designing and developing an interactive retail sales dashboard to provide insigh
   <li>How many items are sold in total each month?</li>
 </ol>
 
+## Preview
+
 [Demo project](https://youtu.be/phHlLyqb1U4)
